@@ -1,3 +1,3 @@
 from . import deepMRInet
-from . import autoencoder
+from . import dagan
 from .common import *
